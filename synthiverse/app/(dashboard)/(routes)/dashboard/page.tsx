@@ -5,9 +5,9 @@ import { MessagesSquare ,ImageIcon , VideoIcon ,MusicIcon , CodeIcon, ArrowRight
 import { useRouter } from "next/navigation";
 const tools =[
   {
-    label:"Convesation",
+    label:"Conversation",
     icon:MessagesSquare,
-    href: "/consversation",
+    href: "/conversation",
     color:"text-violet-500",
     bgColor:"bg-violet-500/10"
 },
